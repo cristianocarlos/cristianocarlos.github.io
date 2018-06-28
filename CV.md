@@ -1,4 +1,3 @@
-Hello World
 # Cristiano Carlos da Silva
 
 Location: São Paulo-SP, Brazil
@@ -42,25 +41,21 @@ Skype: cristianocarlos902
 
 ## Working history
 
-##### Centro Universitário Leonardo Da Vinci - Indaial, SC, Brasil (higher education)
+#### Centro Universitário Leonardo Da Vinci - Indaial, SC, Brasil (higher education)
 Programmer, 2006 to 2009
 
-Develop, maintain and support application programs for administrative and web systems using PHP and ORACLE.
-
+Develop, maintain and support application programs for administrative and web systems using PHP and ORACLE.\
 In the last year of working here, I've started to manage a team of three programmers.
 
-##### Análise Editorial, São Paulo, SP, Brasil (publishing dedicated to specialized publications)
+#### Análise Editorial, São Paulo, SP, Brasil (publishing dedicated to specialized publications)
 System Analyst, 2009 to present
 
-Design, develop, maintain and support application programs for administrative and web systems using PHP and PostgreSQL.
-
-Here I'm responsible to hire and manage programmers, usually a team between three and five.
-
+Design, develop, maintain and support application programs for administrative and web systems using PHP and PostgreSQL.\
+Here I'm responsible to hire and manage programmers, usually a team between three and five.\
 I've been working on Análise Editorial mostly as a partial time job, I'm not hired, it's a free lance job so I've been working with other projects in parallel.
 
-##### MDMED Software Médico, Blumenau, SC, Brasil (medical clinic sotware)
+#### MDMED Software Médico, Blumenau, SC, Brasil (medical clinic sotware)
 Partner and Systems Architect, 2015 to present
 
-Design, develop, maintain and support application programs for web systems using ReactJS, Node, Redis, Redux, React Router on the front end and PHP e PostgreSQL on the back end. 
-
+Design, develop, maintain and support application programs for web systems using ReactJS, Node, Redis, Redux, React Router on the front end and PHP e PostgreSQL on the back end.\
 Here I've working remotely with a hired team of three people in São Paulo.
